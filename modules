@@ -3,9 +3,8 @@
 #
 # In most cases, it is not required so don't add it.
 
-GLUON_SITE_FEEDS="fileskw"
+GLUON_SITE_FEEDS="divonet"
 
-PACKAGES_FILESKW_REPO=https://github.com/Netzwerk-Koenigswinter/gluon-ffkw-files.git
-PACKAGES_FILESKW_COMMIT=7494262a42b328253caf977253008d49a77f98ef
-PACKAGES_FILESKW_BRANCH=master
-
+PACKAGES_DIVONET_REPO=https://github.com/divonet/gluon-packages.git
+PACKAGES_DIVONET_COMMIT=8492dc1658804521643aaabdfb86986b02f52522
+PACKAGES_DIVONET_BRANCH=tunneldigger
